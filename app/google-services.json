@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "553355669458",
+    "firebase_url": "https://filatelistii-61bf1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "filatelistii-61bf1",
+    "storage_bucket": "filatelistii-61bf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553355669458:android:9e5ad71b9c242100e4220b",
+        "android_client_info": {
+          "package_name": "com.example.filatelistii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553355669458-m9pgcrude8hun51a3kkgs2t10j9uh926.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOHKgoGC53ylRe6lHuDSjHiFugDLxwiNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553355669458-m9pgcrude8hun51a3kkgs2t10j9uh926.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

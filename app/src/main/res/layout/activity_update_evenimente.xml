@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".UpdateEvenimente">
+
+
+    <EditText
+        android:id="@+id/idEdtEventName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textColorHint="@color/black"
+        android:hint="@string/introduceti_numele_evenimentului1"
+        android:minHeight="48dp"
+        android:textColor="@color/black"
+        android:importantForAutofill="no"
+        android:inputType="text" />
+
+
+    <EditText
+        android:id="@+id/idEdtEventAdress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textColorHint="@color/black"
+        android:textColor="@color/black"
+        android:hint="@string/introduceti_adresa_evenimentului"
+        android:minHeight="48dp"
+        android:importantForAutofill="no"
+        android:inputType="text" />
+
+
+    <Button
+        android:id="@+id/idBtnUpdateEvent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="@string/actualizati_evenimentul"
+        android:textAllCaps="false" />
+    <Button
+        android:id="@+id/idBtnDeleteEvent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="@string/sterge_evenimentul"
+        android:textAllCaps="false" />
+
+</LinearLayout>

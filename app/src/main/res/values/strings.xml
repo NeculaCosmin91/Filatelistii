@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Filatelistii</string>
+    <string name="butonMeniu">Meniul Principal</string>
+    <string name="bine_ai_venit_filatelistule">Bine ai venit, filatelistule!</string>
+    <string name="bine_ai_venit_in_meniul_principal">Bine ai venit in meniul principal</string>
+    <string name="mainMenuTimbreDetinute">Timbre Detinute</string>
+    <string name="mainMenu_adauga_timbru">Adauga timbru</string>
+    <string name="mainMenu_adauga_eveniment">Adauga Eveniment</string>
+    <string name="mainMenu_evenimente">Evenimente</string>
+    <string name="salvare_timbru">Salvare</string>
+    <string name="luna_timbrului">Luna</string>
+    <string name="denumire_timbru">Denumire</string>
+    <string name="pret_timbru">Pret</string>
+    <string name="imagine_content">Imagine</string>
+    <string name="textviewAn">An</string>
+    <string name="adauga_o_noua_activitate">Adauga o noua activitate</string>
+    <string name="fip">FIP</string>
+    <string name="romanian_philatelic_federation_1891">Romanian Philatelic Federation 1891</string>
+    <string name="ce_eveniment_doriti_sa_adaugati">Ce eveniment doriti sa adaugati?</string>
+    <string name="feedback">Feedback</string>
+    <string name="apreciem_feedback_ul_dumneavoastra_dorim_sa_va_imbunatatim_experienta">Apreciem feedback-ul dumneavoastra. Dorim sa va imbunatatim experienta!</string>
+    <string name="adauga_feedback">Adauga Feedback</string>
+    <string name="stelute_feedback">stelute feedback</string>
+    <string name="introduceti_codul_de_verificare_din_sms">Introduceti codul de verificare din sms</string>
+    <string name="retrimite_codul">Retrimite codul</string>
+    <string name="_407xxxxxxxx">+407xxxxxxxx</string>
+    <string name="introduceti_numarul_de_telefon">Introduceti numarul de telefon</string>
+    <string name="login">LOGIN</string>
+    <string name="login_page">Login Page</string>
+    <string name="continue_to_main_page">Continue</string>
+    <string name="xxxxxx">xxxxxx</string>
+    <string name="submit_password">Submit</string>
+    <string name="_hint">User Name</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="existing_user_go_to_sign_in_page">Existing user! Go to Sign in page</string>
+    <string name="sign_in_btn">Sign in</string>
+    <string name="user_name_login">User Name</string>
+    <string name="password_login">Password</string>
+    <string name="feedback_name">Name</string>
+    <string name="feedback_message">Message</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="adauga_imagine">Adauga Imagine</string>
+    <string name="adresa">Localitatea</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="insert_into_sqlite_database">Insert Into SQLite Database</string>
+    <string name="adresa_eveniment">Adresa</string>
+    <string name="save_the_event">Save the Event</string>
+    <string name="event_name">Event Name</string>
+    <string name="adresa_display">Adresa</string>
+    <string name="submit">Submit</string>
+    <string name="rate_me">Rate Me!!!</string>
+    <string name="show_all_events">Show all Events</string>
+    <string name="lista_timbre">Lista Timbre</string>
+    <string name="aceasta_este_sectiunea_destinata_albumelor">Aceasta este sectiunea destinata albumelor</string>
+    <string name="salvare_album">Salvare Album</string>
+    <string name="nume_album">Nume Album</string>
+    <string name="pret_album">Pret Album</string>
+    <string name="detalii_album">Detalii Album</string>
+    <string name="lista_albume">Lista Albume</string>
+    <string name="introduceti_numele_evenimentului2">Introduceti numele evenimentului</string>
+    <string name="introduceti_adresa_evenimentului1">Introduceti adresa evenimentului</string>
+    <string name="actualizati_evenimentul">Actualizati evenimentul</string>
+    <string name="sterge_evenimentul">Sterge Evenimentul</string>
+    <string name="introduceti_numele_evenimentului1">Introduceti numele evenimentului</string>
+    <string name="introduceti_adresa_evenimentului">Introduceti adresa evenimentului</string>
+    <string name="salveaza_evenimentul">Salveaza evenimentul</string>
+    <string name="lista_cu_evenimentele_salvate">Lista cu evenimentele salvate</string>
+    <string name="imagini_main_menu">Imagini</string>
+    <string name="incarca_in_firebase">Incarca in Firebase</string>
+    <string name="alege_imagine_timbru">Alege</string>
+    <string name="imagine_timbru_imgView">Imagine</string>
+    <string name="timbre_detinute">Timbre Detinute</string>
+    <string name="timbre_detinute_firebase">Timbre detinute</string>
+    <string name="colectii_timbre">Colectii</string>
+    <string name="numele_colectiei">Numele Colectiei</string>
+    <string name="tara">Tara</string>
+    <string name="an_colectie">An</string>
+    <string name="colectii_timbre1">Colectii</string>
+    <string name="valoare_default_row_view">def_row_view</string>
+    <string name="tara_lv_inreg_view">Tara:</string>
+    <string name="note">Note</string>
+    <string name="note_main_menu">Note</string>
+    <string name="notes">Notes</string>
+    <string name="introduceti_o_nota">Introduceti o nota</string>
+    <string name="notes_no_characters_error_message">Prea multe caractere</string>
+    <string name="notes_updated">Updated at: %1$s</string>
+    <string name="notes_template">%1$d/1000 characters</string>
+    <string name="save_message">Nota salvata cu succes</string>
+    <string name="grafice">Grafice</string>
+    <string name="din_acest_meniu_puteti_vizualiza_grafice_cu_privire_la_evenimentele_filatelice_la_care_ati_participat">Din acest meniu puteti vizualiza grafice cu privire la evenimentele filatelice la care ati participat</string>
+    <string name="_2016">2016</string>
+    <string name="_2017">2017</string>
+    <string name="_2018">2018</string>
+    <string name="_2019">2019</string>
+    <string name="_2020">2020</string>
+
+    <string name="statistica_privind_intalnirile_filatelistilor">Statistica privind intalnirile filatelistilor:</string>
+
+
+
+    <string-array name="luna_timbre">//spiner(vectori statici, doar daca nu se modifica)
+        <item>Ianuarie</item>
+        <item>Februarie</item>
+        <item>Martie</item>
+        <item>Aprilie</item>
+        <item>Mai</item>
+        <item>Iunie</item>
+        <item>Iulie</item>
+        <item>August</item>
+        <item>Septembrie</item>
+        <item>Octombrie</item>
+        <item>Noiembrie</item>
+        <item>Decembrie</item>
+    </string-array>
+</resources>
